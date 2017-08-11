@@ -1,3 +1,3 @@
 # MyDD2017
 
-MQ4, Temperature sensor code
+Gas and Temperature sensors code including OLED display and buzzer and with IoT Platform Integration.
